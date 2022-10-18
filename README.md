@@ -3,6 +3,19 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<h2>Hey! 👋</h2>
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/Puppet-GrandMaster?tab=followers)
+
+I'm Miguel L Packori! 
+- <i>Currently:</i> Student Programming Technician at University Technology of Cordoba - UTN FRGP. 
+- <i>Previously:</i> Commercial Engineer at University Private of Tacna - UPT.
+
+<h2>💻 I'm Currently workng on</h2>
+
+- Graphic Design
+
+
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
@@ -35,18 +48,6 @@ const thai = {
 ![Lakshmanan Meiyappan Banner Image](./banner.gif)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
-
-<h2>Hey! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/Puppet-GrandMaster?tab=followers)
-
-I'm Miguel L Packori! 
-- <i>Currently:</i> Student Programming Technician at University Technology of Cordoba - UTN FRGP. 
-- <i>Previously:</i> Commercial Engineer at University Private of Tacna - UPT.
-
-<h2>💻 I'm Currently workng on</h2>
-
-- Graphic Design
 
 
 __Check out my GitHub repository:__
@@ -88,4 +89,4 @@ I'm a Student living in Cordoba, Argentina. Outside Tech, I love to read, enjoy 
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@laxmena.com">![codex.nowhere@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/luis-m-pacori-67367924a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:codex.nowhere@outlook.com">![codex.nowhere@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/luis-m-pacori-67367924a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
