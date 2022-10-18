@@ -1,15 +1,8 @@
-<h2> Hi, I'm Miguel L Packori! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hey! 👋, I'm Miguel L Packori! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="./bannerr.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
-<h2>Hey! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=laxmena.laxmena)](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/Puppet-GrandMaster?tab=followers)
-
-I'm Miguel L Packori! 
-- <i>Currently:</i> Student Programming Technician at University Technology of Cordoba - UTN FRGP. 
-- <i>Previously:</i> Commercial Engineer at University Private of Tacna - UPT.
+- <p><em><i>Currently:</i> Student Programming Technician at University Technology of Cordoba - UTN FRGP. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><p><em>
+- <i>Previously:</i> Commercial Engineer at University Private of Tacna - UPT.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <h2>💻 I'm Currently workng on</h2>
 
