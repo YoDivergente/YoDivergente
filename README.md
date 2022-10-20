@@ -10,7 +10,7 @@
 
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: m-pacori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/luis-m-pacori-67367924a/)](https://www.linkedin.com/in/luis-m-pacori-67367924a/))](https://www.linkedin.com/in/luis-m-pacori-67367924a/)
+[![Linkedin: m-pacori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/luis-m-pacori-67367924a/](https://www.linkedin.com/in/luis-m-pacori-67367924a/)](https://www.linkedin.com/in/luis-m-pacori-67367924a/))](https://www.linkedin.com/in/luis-m-pacori-67367924a/)
 [![GitHub Puppet-GrandMaster](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Puppet-GrandMaster)
 
 
