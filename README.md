@@ -30,9 +30,6 @@ const thai = {
 
 ---
 
-
-
-
 ![Lakshmanan Meiyappan Banner Image](./banner.gif)
 <!-- <h2 align='center'>Lakshmanan Meiyappan @ Laxmena</h2>
 <p align='center'><b>Graduate Student at University of Illinois at Chicago</b></p> -->
@@ -46,10 +43,23 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/laxmena/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=CloudOrg-Simulator" alt="GitHub Stats" 
+           />
     </a>
   </p>
 </div>
+  
+<div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
+<div>
+  <p>
+    <a href="https://github.com/laxmena/PyCalendly">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=laxmena&repo=PyCalendly" alt="GitHub Stats" />
+    </a>
+    
 
 <h2> About Miguel L.⚡:</h2>
 
