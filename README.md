@@ -8,12 +8,6 @@
 
 - Graphic Design
 
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: m-pacori](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[https://www.linkedin.com/in/luis-m-pacori-67367924a/](https://www.linkedin.com/in/luis-m-pacori-67367924a/)](https://www.linkedin.com/in/luis-m-pacori-67367924a/))](https://www.linkedin.com/in/luis-m-pacori-67367924a/)
-[![GitHub Puppet-GrandMaster](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Puppet-GrandMaster)
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -60,8 +54,8 @@ __Check out my GitHub repository:__
 
 I'm a Student living in Cordoba, Argentina. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Cordoba, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://laxmena.com](https://laxmena.com)
-- Know more about me: [About Laxmena](https://laxmena.com/pages/about)
+- Check out my Blog: [https://proximanete.com)
+- Know more about me: [About Laxmena](https://proximamente.com/pages/about)
 - Write to me: [codex.nowhere@outlook.com](mailto:codex.nowhere@outlook.com)
 
 <h2>📫 How to reach me:</h2>
