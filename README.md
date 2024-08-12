@@ -37,10 +37,10 @@ const thai = {
 
 I'm a Student living in Cordoba, Argentina. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Cordoba, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://proximanete.com)
-- Know more about me: [About Laxmena](https://proximamente.com/pages/about)
-- Write to me: [codex.nowhere@outlook.com](mailto:codex.nowhere@outlook.com)
+- Check out my Blog: [https://bloggg.com)
+- Know more about me: [About Miguel](https://proximamente.com/pages/about)
+- Write to me: [*****@outlook.com](mailto:******@outlook.com)
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:codex.nowhere@outlook.com">![codex.nowhere@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/luis-m-pacori-67367924a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:****@outlook.com">![******@outlook.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/luis-m-pacori-67367924a/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
