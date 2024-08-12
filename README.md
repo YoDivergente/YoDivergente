@@ -1,4 +1,4 @@
-<h2>Hey! 👋, I'm Miguel L Packori! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2>Hey! 👋, I'm Miguel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="./bannerr.gif" width="230">
 
 - <p><em><i>Currently:</i> Student Technician in data science and artificial intelligence - ISPC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
