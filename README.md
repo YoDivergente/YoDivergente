@@ -2,8 +2,6 @@
 <img align='right' src="./bannerr.gif" width="230">
 
 - <p><em><i>Currently:</i> Student Technician in data science and artificial intelligence - ISPC. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- <p><em><i>Currently:</i> Student Programming Technician at University Technology of Cordoba - UTN FRGP. <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><p><em>
-- <i>Previously:</i> Commercial Engineer at University Private of Tacna - UPT.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 <h2>💻 I'm Currently workng on</h2>
 
